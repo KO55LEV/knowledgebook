@@ -1,6 +1,8 @@
 ## SOLID Links
 https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
+
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-c-sharp/
+
 https://professorweb.ru/my/it/blog/net/solid.php
 
 ## Agile VS Scrum Vs Waterfall vs Kanman
