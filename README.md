@@ -22,4 +22,5 @@ $ git init
 $ git add <file or directory name>
 $ git commit -m "Commit message in quotes"
 ```
-
+## App Ideas
+https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
