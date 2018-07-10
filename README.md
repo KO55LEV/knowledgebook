@@ -5,6 +5,8 @@ https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-c-sharp/
 
 https://professorweb.ru/my/it/blog/net/solid.php
 
+https://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074
+
 ## Agile VS Scrum Vs Waterfall vs Kanman
 
 https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban
