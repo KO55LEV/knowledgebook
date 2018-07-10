@@ -28,3 +28,6 @@ https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c
 
 ## App Ideas
 https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
+
+##POCO vs ENTITY , Repository, Domain Object 
+https://stackoverflow.com/questions/6154311/what-is-the-difference-between-domain-objects-pocos-and-entities
