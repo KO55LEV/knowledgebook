@@ -36,8 +36,10 @@ https://stackoverflow.com/questions/6154311/what-is-the-difference-between-domai
 
 ## Factory Pattern 
 
+https://stackoverflow.com/questions/31950362/factory-method-with-di-and-ioc/31971691
 https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-example/
-
+https://softwareengineering.stackexchange.com/questions/293826/usage-factory-pattern-vs-dependency-injection
+https://www.codeproject.com/Articles/874246/Understanding-and-Implementing-Factory-Pattern-i
 
 ## Good Code base  Examples 
 
