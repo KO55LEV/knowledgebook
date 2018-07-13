@@ -25,6 +25,12 @@ $ git add <file or directory name>
 $ git commit -m "Commit message in quotes"
 ```
 
+## Building an ASP.NET Web API with ASP.NET Core
+https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
+
+## Angular 5 and ASP.NET Core
+https://www.toptal.com/angular/angular-5-asp-net-core
+
 ## React Article 
 https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c
 
