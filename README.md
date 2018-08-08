@@ -55,3 +55,7 @@ https://www.pluralsight.com/guides/how-to-write-your-first-multi-threaded-applic
 
 https://www.nopcommerce.com/downloads.aspx
 
+
+## T-SQL Transaction Isolation Levels 
+
+https://www.red-gate.com/simple-talk/sql/t-sql-programming/questions-about-t-sql-transaction-isolation-levels-you-were-too-shy-to-ask/
