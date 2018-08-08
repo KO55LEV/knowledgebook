@@ -47,6 +47,10 @@ https://www.c-sharpcorner.com/UploadFile/97fc7a/factory-pattern-in-net-with-an-e
 https://softwareengineering.stackexchange.com/questions/293826/usage-factory-pattern-vs-dependency-injection
 https://www.codeproject.com/Articles/874246/Understanding-and-Implementing-Factory-Pattern-i
 
+## multi-threaded application with c#
+
+https://www.pluralsight.com/guides/how-to-write-your-first-multi-threaded-application-with-c
+
 ## Good Code base  Examples 
 
 https://www.nopcommerce.com/downloads.aspx
