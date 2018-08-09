@@ -1,0 +1,32 @@
+[TestMethod, TestCategory("Category Name")]
+
+
+Private Variable 
+
+  private readonly Mock<IClassInterface> _mockedObjectName;
+
+
+In constructor we init it 
+_mockedObjectName = new Mock<IClassInterface>();
+
+
+[TestMethod, TestCategory("Category Name")]
+
+public void TestMethod()
+      
+{
+	_mockedObjectName.Setup(x => x.Method1(It.IsAny<InputParametorForMethod1>())).Returns(SameTypeWhatMethod1Returns);
+}
+
+
+
+Assert.IsNotNull(WhatWeGetInCode, "Expected WhatWeGetInCode is empty");
+           
+Assert.AreNotEqual(0, WhatWeCompareTo, "Expected ......");
+            
+Assert.Fail("Fail message");
+Assert.AreEqual(Expected,WhatWeGetInCode);
+Assert.IsTrue(WhatWeGetInCodeBool);
+Assert.IsNull(WhatWeGetInCode);
+-----------------------------------------------------------------------
+
