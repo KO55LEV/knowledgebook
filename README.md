@@ -52,6 +52,8 @@ https://dotnetcodr.com/task-parallel-library/
 
 https://www.pluralsight.com/guides/how-to-write-your-first-multi-threaded-application-with-c
 
+https://www.infoworld.com/article/3035134/application-development/how-to-work-with-threads-in-c.html
+
 ## Good Code base  Examples 
 
 https://www.nopcommerce.com/downloads.aspx
