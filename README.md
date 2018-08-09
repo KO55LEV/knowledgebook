@@ -48,7 +48,7 @@ https://softwareengineering.stackexchange.com/questions/293826/usage-factory-pat
 https://www.codeproject.com/Articles/874246/Understanding-and-Implementing-Factory-Pattern-i
 
 ## multi-threaded application with c#
-
+https://dotnetcodr.com/task-parallel-library/
 https://www.pluralsight.com/guides/how-to-write-your-first-multi-threaded-application-with-c
 
 ## Good Code base  Examples 
