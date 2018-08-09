@@ -1,0 +1,13 @@
+[Test]
+       public void Should_return_Customer_Name()
+       {
+       //Arrange
+          <code> var fakeCustomerName = A.Fake<Customer>();</code>
+       <code>    int customerId = 12; //Any number</code>
+
+           //Act
+           A.CallTo(() => fakeCustomerName.GetCustomerName(customerId)).Returns("Customer Name");
+
+           //Assert
+           Assert.AreEqual("Customer Name", fakeCustomerName.GetCustomerName(customerId));
+       }
