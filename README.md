@@ -62,3 +62,8 @@ https://www.nopcommerce.com/downloads.aspx
 ## T-SQL Transaction Isolation Levels 
 
 https://www.red-gate.com/simple-talk/sql/t-sql-programming/questions-about-t-sql-transaction-isolation-levels-you-were-too-shy-to-ask/
+
+
+## Azure Message Bus 
+
+https://www.red-gate.com/simple-talk/cloud/cloud-data/an-introduction-to-windows-azure-service-bus-brokered-messaging/
