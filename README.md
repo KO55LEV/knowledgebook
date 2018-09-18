@@ -67,3 +67,7 @@ https://www.red-gate.com/simple-talk/sql/t-sql-programming/questions-about-t-sql
 ## Azure Message Bus 
 
 https://www.red-gate.com/simple-talk/cloud/cloud-data/an-introduction-to-windows-azure-service-bus-brokered-messaging/
+
+## .NET CORE VS .NET Framework VS .NET Standard
+
+https://msdn.microsoft.com/en-us/magazine/mt842506.aspx?f=255&MSPPError=-2147217396
