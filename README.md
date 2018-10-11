@@ -71,3 +71,8 @@ https://www.red-gate.com/simple-talk/cloud/cloud-data/an-introduction-to-windows
 ## .NET CORE VS .NET Framework VS .NET Standard
 
 https://msdn.microsoft.com/en-us/magazine/mt842506.aspx?f=255&MSPPError=-2147217396
+
+
+## Docker example 
+
+https://github.com/dotnet/dotnet-docker/tree/master/samples/aspnetapp
