@@ -74,5 +74,5 @@ https://msdn.microsoft.com/en-us/magazine/mt842506.aspx?f=255&MSPPError=-2147217
 
 
 ## Docker example 
-
+https://docs.microsoft.com/en-us/dotnet/core/docker/building-net-docker-images
 https://github.com/dotnet/dotnet-docker/tree/master/samples/aspnetapp
