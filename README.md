@@ -79,3 +79,6 @@ https://github.com/dotnet/dotnet-docker/tree/master/samples/aspnetapp
 
 ## Azure Deploy Container to cloud 
 https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart
+
+## Elastic Search Docker Search Article 
+https://blog.patricktriest.com/text-search-docker-elasticsearch/
