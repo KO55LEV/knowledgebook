@@ -86,3 +86,4 @@ https://blog.patricktriest.com/text-search-docker-elasticsearch/
 ## Java script  event loop web workers  single tread / multy threading
 https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
 https://www.red-gate.com/simple-talk/dotnet/asp-net/javascript-single-threaded/
+https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
