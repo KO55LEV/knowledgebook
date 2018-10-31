@@ -82,3 +82,7 @@ https://docs.microsoft.com/en-us/azure/container-instances/container-instances-q
 
 ## Elastic Search Docker Search Article 
 https://blog.patricktriest.com/text-search-docker-elasticsearch/
+
+## Java script  event loop web workers  single tread / multy threading
+https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
+https://www.red-gate.com/simple-talk/dotnet/asp-net/javascript-single-threaded/
