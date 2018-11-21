@@ -91,7 +91,10 @@ https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-as
 ## Architecture
 
 http://www.codingthearchitecture.com/authors/sbrown/
+
 https://martinfowler.com/
+
 https://heartofagile.com/alistair-cockburn/
+
 https://domainlanguage.com/
 
