@@ -93,3 +93,4 @@ http://www.codingthearchitecture.com/authors/sbrown/
 https://martinfowler.com/
 https://heartofagile.com/alistair-cockburn/
 https://domainlanguage.com/
+
