@@ -98,3 +98,8 @@ https://heartofagile.com/alistair-cockburn/
 
 https://domainlanguage.com/
 
+https://www.amazon.co.uk/Vaughn-Vernon/e/B0096T71SA/ref=dp_byline_cont_book_1
+
+https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1542809636&sr=8-1&keywords=uncle+bob+clean+code
+
+https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=GTFQT1EA0RSEC4RSESGW
