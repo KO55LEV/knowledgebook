@@ -58,6 +58,8 @@ https://www.infoworld.com/article/3035134/application-development/how-to-work-wi
 
 https://www.nopcommerce.com/downloads.aspx
 
+## Creating Web API in ASP.NET Core 2.0
+https://www.codingame.com/playgrounds/35462/creating-web-api-in-asp-net-core-2-0/part-1---web-api
 
 ## T-SQL Transaction Isolation Levels 
 
@@ -92,6 +94,10 @@ https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-as
 
 https://www.thoughtworks.com/radar
 
+
+
+## Push Docker into the Azure 
+https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image
 
 ## Architecture
 
