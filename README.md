@@ -75,6 +75,9 @@ https://www.red-gate.com/simple-talk/cloud/cloud-data/an-introduction-to-windows
 https://msdn.microsoft.com/en-us/magazine/mt842506.aspx?f=255&MSPPError=-2147217396
 
 
+## Microservice Websites example
+https://gustafnk.github.io/microservice-websites/
+
 ## Docker example 
 https://docs.microsoft.com/en-us/dotnet/core/docker/building-net-docker-images
 https://github.com/dotnet/dotnet-docker/tree/master/samples/aspnetapp
