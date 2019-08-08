@@ -122,3 +122,8 @@ https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680
 ## CSS 
 
 https://loading.io/css/
+
+
+## MassTransit simple example 
+
+https://ngohungphuc.wordpress.com/2018/07/22/masstransit-with-asp-net-core-2-1/
