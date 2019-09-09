@@ -98,6 +98,10 @@ https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-as
 https://www.thoughtworks.com/radar
 
 
+## Tools 
+Nimbus  - crome add on to record pages ! 
+
+
 
 ## Push Docker into the Azure 
 https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image
