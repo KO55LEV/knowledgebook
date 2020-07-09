@@ -131,3 +131,6 @@ https://loading.io/css/
 ## MassTransit simple example 
 
 https://ngohungphuc.wordpress.com/2018/07/22/masstransit-with-asp-net-core-2-1/
+
+## xUNIT comparison
+https://xunit.net/docs/comparisons
