@@ -31,7 +31,7 @@
     "@angular/compiler-cli": "^4.2.4",
     "@angular/language-service": "^4.2.4",
     "typescript": "~2.3.3",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-uglify": "~3.0.0",
     "gulp-concat": "2.6.1"
   }
